@@ -34,7 +34,7 @@
 : ${ZSH_HIGHLIGHT_STYLES[reserved-word]:=fg=yellow}
 : ${ZSH_HIGHLIGHT_STYLES[suffix-alias]:=fg=green,underline}
 : ${ZSH_HIGHLIGHT_STYLES[global-alias]:=fg=cyan}
-: ${ZSH_HIGHLIGHT_STYLES[precommand]:=fg=red,bold,underline}
+: ${ZSH_HIGHLIGHT_STYLES[precommand]:=fg=blue,bold,underline}
 : ${ZSH_HIGHLIGHT_STYLES[commandseparator]:=none}
 : ${ZSH_HIGHLIGHT_STYLES[autodirectory]:=fg=green,underline}
 : ${ZSH_HIGHLIGHT_STYLES[path]:=underline}
